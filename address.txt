@@ -1,0 +1,3 @@
+here iam using is this for git pull
+git pull
+automatic mergeing will be done on git pull
